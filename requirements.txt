@@ -1,2 +1,5 @@
-langchain
 streamlit
+langchain
+langchain-groq
+langchain-community
+PyPDF2
